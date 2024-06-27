@@ -23,8 +23,8 @@
 <details>
   <summary>Minhas Estátisticas no Github</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=Gabriel-Ayala&langs_count=5&theme=radical"%20alt="Techs%20utilizadas%20nos%20projetos" />
-    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=Gabriel-Ayala&theme=radical&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=Gabriel-Ayala&langs_count=5&theme=radical%22" />
+    <img src="https://github-readme-stats.vercel.app/api?locale=en&username=Gabriel-Ayala&theme=radical&show_icons=true&include_all_commits=true%22" />
   </p>
 </details>
 
