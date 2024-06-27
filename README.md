@@ -38,7 +38,7 @@
 
   [![Twitter Badge](https://img.shields.io/badge/-@__Gabriel_Ayala-4000FF?logo=twitter&logoColor=white)](https://twitter.com/__Gabriel_Ayala)
   [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Neves%20Ayala-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-neves-ayala-04a6711a1/)
-  [![Gmail Badge](https://img.shields.io/badge/-gabrielnevesayala@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:gabrielnevesayala@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/ayala_dev@proton.me-4000FF?logo=Protonmail&logoColor=white)](mailto:ayala_dev@proton.me)
   
 </div>
 
