@@ -23,7 +23,7 @@
 <details>
   <summary>Minhas Estátisticas no Github</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=Gabriel-Ayala&langs_count=5&theme=radical%22" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=Gabriel-Ayala&langs_count=5&theme=radical&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api?locale=en&username=Gabriel-Ayala&theme=radical&show_icons=true&include_all_commits=true%22" />
   </p>
 </details>
